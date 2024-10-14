@@ -9,8 +9,7 @@ Este projeto é uma aplicação desenvolvida com **React** e **Vite**. Ela simul
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Estrutura de Pastas](#estrutura-de-pastas)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Contato](#contato)
 
 ## Funcionalidades
 
@@ -49,7 +48,9 @@ Siga os passos abaixo para rodar o projeto localmente:
 - Uma página inicial simulada com seções organizadas por componentes.
 - Validação e estrutura modular dos componentes.
 
+## Estrutura de Pasta
 
+```
 src/
  ├── assets/                # Arquivos estáticos (imagens, fontes, etc)
  ├── components/            # Componentes React
@@ -60,7 +61,7 @@ src/
  ├── styles/                # Arquivos de estilo CSS
  ├── App.jsx                # Componente principal da aplicação
  └── main.jsx               # Arquivo de entrada do React
-
+```
 
 ## Contato
 
